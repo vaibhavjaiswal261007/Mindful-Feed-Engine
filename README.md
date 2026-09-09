@@ -11,5 +11,5 @@ Project under development.
 - Object-Oriented Programming
 - Trie
 - Max Heap
-- FIFO Queue
+- Token Bucket
 - Hash Map
